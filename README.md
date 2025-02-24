@@ -3,6 +3,7 @@
 In today's competitive job market, finding the right career path and identifying skill gaps can be overwhelming. Our project, Career Navigator, is a powerful AI-driven tool that helps users discover top job opportunities, analyze their skill gaps, and receive tailored course recommendations to upskill efficiently. This system leverages TF-IDF and Cosine Similarity to provide personalized career insights and learning pathways.
 
 How It Works
+
 1.Job & Career Recommendation with Skill Gap Analysis
 
 The user inputs their current skills (e.g., Python, SQL, Machine Learning).
