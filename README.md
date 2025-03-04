@@ -1,9 +1,12 @@
 # SkillBridge-Job-Course-Recommender
 In today's competitive job market, finding the right career path and identifying skill gaps can be overwhelming. Our project, Career Navigator, is a tool that helps users discover top job opportunities, analyze their skill gaps, and receive tailored course recommendations to upskill efficiently. This system leverages TF-IDF and Cosine Similarity to provide personalized career insights and learning pathways.
 
-Technologies Used
+Technologies Used:
+
 Backend: Python (Flask)
+
 Frontend: React.js
+
 Machine Learning: Scikit-learn (TF-IDF, Cosine Similarity)
 
 How It Works
